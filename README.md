@@ -4,7 +4,7 @@ Developed with Unreal Engine 5
 
 Gameplay video: https://youtu.be/BPBe6vDEa9k
 
-![https://youtu.be/BPBe6vDEa9k](https://github.com/n1nj4z33/CryptRaider/blob/master/CryptRaider.png)
+![https://youtu.be/BPBe6vDEa9k](https://github.com/n1nj4z33/CryptRaider/blob/main/CryptRaider.png)
 
 Used assets:
 
